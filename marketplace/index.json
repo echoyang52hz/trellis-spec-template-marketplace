@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "trellis-stage-governance",
+      "type": "spec",
+      "name": "Trellis 阶段制项目治理",
+      "description": "项目治理、Git 工作流、Trellis 任务生命周期和阶段执行台账规范",
+      "path": "marketplace/specs/trellis-stage-governance",
+      "tags": ["trellis", "governance", "workflow", "git", "stage"]
+    }
+  ]
+}
