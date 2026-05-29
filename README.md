@@ -6,7 +6,7 @@
 
 | 模板 | 类型 | 说明 |
 |------|------|------|
-| [Trellis 计划单元项目治理](./marketplace/specs/trellis-planning-unit-governance/README.md) | spec | 项目治理、Git 工作流、Trellis 任务生命周期、计划单元任务书和执行台账规范 |
+| [Trellis 计划单元项目治理](./marketplace/specs/trellis-planning-unit-governance/) | spec | 项目治理、Git 工作流、Trellis 任务生命周期、计划单元任务书和执行台账规范 |
 
 ## 索引文件
 
